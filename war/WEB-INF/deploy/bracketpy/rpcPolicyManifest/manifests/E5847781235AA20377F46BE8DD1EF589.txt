@@ -1,0 +1,2 @@
+serviceClass: com.bracketpy.website.client.GreetingService
+path: DA77EFB21C87D98908628665152F69FE.gwt.rpc
